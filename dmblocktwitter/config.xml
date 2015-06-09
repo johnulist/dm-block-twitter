@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>dmblocktwitter</name>
+    <displayName><![CDATA[Simple Twitter Block]]></displayName>
+    <version><![CDATA[0.4]]></version>
+    <description><![CDATA[A simple Twitter module for PrestaShop 1.6.]]></description>
+    <author><![CDATA[David Martín]]></author>
+    <tab><![CDATA[social_networks]]></tab>
+    <confirmUninstall>Are you sure you want to uninstall?</confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+    <limited_countries></limited_countries>
+</module>

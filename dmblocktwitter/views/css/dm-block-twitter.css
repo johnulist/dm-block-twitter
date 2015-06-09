@@ -1,0 +1,62 @@
+# ---------------------------------------------------------
+# Simple Twitter Block
+# 
+# ---------------------------------------------------------
+#
+# ---------------------------------------------------------
+
+
+
+# Footer
+# ---------------------------------------------------------
+
+#footer .dm-block-twitter-content{
+    float: left;        
+    border-bottom: 1px solid #515151;
+    padding: 15px 0;
+    width: 100%;
+}
+.dm-block-twitter-content .block_content ul{    
+    position: relative;
+    height: 80px;
+    width: 100%;
+    padding-top: 10px;
+}
+.dm-block-twitter-content li{        
+    position: absolute;        
+    width: 100%;
+    opacity: 0;
+} 
+.dm-block-twitter-content li .user{
+    position: relative;
+    color: #fff;
+}
+.dm-block-twitter-content li .user img{    
+    background-color: #fff;
+    border-radius: 50%;
+    padding: 5px;
+}
+span[data-scribe="element:name"]{
+    position: absolute;
+    top: 7px;
+    left: 65px;
+    color: #fff;
+}
+span[data-scribe="element:screen_name"]{
+    position: absolute;
+    top: 30px;
+    left: 65px;
+    font-size: 12px!important;
+    color: #fff;
+}
+.dm-block-twitter-content li .tweet{
+    padding: 15px;
+    background-color: #515151;
+    border-radius: 15px;   
+    position: absolute;
+    left: 250px;
+    top: 0;
+}
+#twitter-dyn{
+    
+}
